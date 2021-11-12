@@ -70,7 +70,6 @@ public class TableStepDefinition extends BasePage {
 
                     break;
                 }
-
             }
     }
         Driver.waitFor(1);
